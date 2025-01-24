@@ -1,4 +1,4 @@
-![logo](https://github.com/dotusmanali/Muhammad-Usman-Ali/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/dotusmanali/dotusmanali/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Ali</h1>
 <h3 align="center">A passionate content writer and SEO strategist from Pakistan</h3>
 
