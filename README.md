@@ -1,47 +1,49 @@
-![logo](https://github.com/dotusmanali/dotusmanali/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Ali</h1>
-<h3 align="center">A passionate content writer and SEO strategist from Pakistan</h3>
+<h3 align="center">AI Automation Builder. Vibe Coder. Autonomous Business Architect. 🇵🇰</h3>
 
-<img align="right" alt="writer" width="400" src="https://cloud-cdn.4over4.com/2021/04/Telecommuting.gif">
+<img align="right" alt="automation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/dotusmanali" target="blank"><img src="https://img.shields.io/twitter/follow/dotusmanali?logo=twitter&style=for-the-badge" alt="dotusmanali" /></a> </p>
+- 🔭 I'm currently building **AI-powered automation systems for businesses**
+- 🌱 I'm currently working with **N8N, Claude API, Groq, and Supabase**
+- 👯 I'm looking to collaborate on **AI agents and workflow automation projects**
+- 🤝 Open to **freelance automation projects and consulting**
+- 👨‍💻 My work: [malikusman.me](https://malikusman.me)
+- 💬 Ask me about **N8N, AI agents, vibe coding, social media automation**
+- 📫 Reach me at **usmanwrit@gmail.com**
+- ⚡ Fun fact **I run 20+ automated YouTube channels while I sleep.**
 
-- 🔭 I’m currently working on **Creating impactful blog posts for startups**
+---
 
-- 🌱 I’m currently learning **Advanced copywriting techniques**
+### What I Build
 
-- 👯 I’m looking to collaborate on **Content creation for technology blogs**
+- 50+ live automation workflows deployed for real clients
+- 20+ automated YouTube channels on full autopilot
+- Fully automated news pages posting to FB, IG, YouTube
+- Local business websites via vibe coding
+- AI-powered content systems using Claude, GPT-4o, Groq
 
-- 🤝 I’m looking for help with **Building a personal content portfolio**
+---
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@dotusmanali](https://medium.com/@dotusmanali)
+### My Stack
 
-- 📝 I regularly write articles on [https://medium.com/@dotusmanali](https://medium.com/@dotusmanali)
+```
+Automation   →   N8N, Make.com
+AI Models    →   Claude, ChatGPT, Groq, Gemini
+Languages    →   Python, JavaScript, HTML/CSS
+Databases    →   Supabase, Google Sheets
+Platforms    →   DigitalOcean VPS, WordPress
+APIs         →   Meta Graph, YouTube Data, Telegram Bot
+```
 
-- 💬 Ask me about **Content marketing, blogging, and SEO best practices**
-
-- 📫 How to reach me **usmanwrit@gmail.com**
-
-- 📄 Know about my experiences [https://linkedin.com/in/dotusmanali](https://linkedin.com/in/dotusmanali)
-
-- ⚡ Fun fact **I believe every word has the power to tell a story.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dotusmanali" height="30" width="40" /></a>
 <a href="https://twitter.com/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dotusmanali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dotusmanali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dotusmanali" height="30" width="40" /></a>
 <a href="https://fb.com/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dotusmanali" height="30" width="40" /></a>
 <a href="https://instagram.com/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dotusmanali" height="30" width="40" /></a>
-<a href="https://dribbble.com/dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dotusmanali" height="30" width="40" /></a>
-<a href="https://medium.com/@dotusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dotusmanali" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotusmanali&show_icons=true&locale=en" alt="dotusmanali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotusmanali&" alt="dotusmanali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotusmanali&show_icons=true&locale=en&theme=dark" alt="dotusmanali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dotusmanali&theme=dark" alt="dotusmanali" /></p>
